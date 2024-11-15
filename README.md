@@ -10,7 +10,9 @@ console.log('\x1b[44m\x1b[37m BLUE BACKGROUND \x1b[0m');
 
 `~/.zprofile`
 
-## License
+## GIT
+
+Si haces un pull o quieres eliminar un commit ` git reset --hard HEAD~1` remueve un commit del stack
 
 # Amplify
 To mock a function use `amplify mock function <functionName>`
