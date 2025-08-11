@@ -55,7 +55,9 @@ done
 ```
 # Google Sheets
 Elimina los saltos de linea y concatena. `CARACTER(10)` es el codigo para salto de linea :
-=SUSTITUIR(CONCATENAR(Q3;J3;Q3);CARACTER(10);"")  
+```
+=SUSTITUIR(CONCATENAR(Q3;J3;Q3);CARACTER(10);"")
+```
 MIT
 
 **Free Software, Hell Yeah!**
